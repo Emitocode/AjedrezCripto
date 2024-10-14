@@ -12,14 +12,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ajedrez Cripto - Inicio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Archivo CSS -->
+    <link rel="stylesheet" href="css/styles.css"> <!-- Archivo CSS -->
 </head>
 <body>
     <div class="container">
         <h1>Bienvenido a Ajedrez Cripto</h1>
         <div class="options">
-            <a href="login.jsp" class="button">Iniciar Sesión</a>
-            <a href="register.jsp" class="button">Registrarse</a>
+            <a href="signin.jsp" class="button">Iniciar Sesión</a>
+            <a href="signup.jsp" class="button">Registrarse</a>
         </div>
     </div>
 </body>
